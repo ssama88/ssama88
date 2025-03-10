@@ -1,10 +1,9 @@
 
 
-- 👋 Hi,lost access to my previous [Github](https://github.com/ssama)
+- 👋 Hi,lost access to my previous [Github](https://github.com/ssama8)
 - 👀 I’m currently working as a frontend developer but am interested in increading my proficiency with the backend and understanding programming at a deeper level under the hood ...
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on open source backend projects in Go and Rust...
-- 🖥️  See my portfolio at [Portfolio](https://www.saket-sama.com)
 
 
 ### Socials
